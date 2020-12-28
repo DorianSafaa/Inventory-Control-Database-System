@@ -8,7 +8,7 @@ Section I: Project Description
 In this section, I created a complete description of the idea for Inventory Control Database System project. This is a high level description which includes the scope of the database system that I am about to create, my motivation and goals to create this project and define the technical problem it solves.
 
 Section II: Use Cases
-Based on your project description, I created five use cases for all the main entities and actors in my system.
+Based on my project description, I created five use cases for all the main entities and actors in my system.
 
 Section III: Database Requirements (Business Rules)
 In this section, I created 33 database requirements which include the following relationships:
@@ -64,9 +64,9 @@ Initial menu that the program shows to the user in screen.
  > Select an option: 1
 Create user account: user inputs enter the name, email and password.
 
-> Name: Linsi
-> Email: linsi@yahoo.com
-> Password: 12345
+> Name: safaa
+> Email: safaadorian@gmail.com
+> Password: 00000
 
 > Account sucessfully created!
 
@@ -82,10 +82,10 @@ Create user account: user inputs enter the name, email and password.
 > Select an option: 2
 Login: the user can log into the system using the data provided at registration time.
 
- > 1. email: linsi@yahoo.com
- > 2. password: 12345
+ > 1. email: safaadorian@gmail.com
+ > 2. password: 00000
  
- >  You are logged as Linsi!
+ >  You are logged as safaa!
  
  > User Menu 
  > 1. Create Account 
